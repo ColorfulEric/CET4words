@@ -33,3 +33,20 @@ eg. The mandatory arrangement makes everyone upset.
 eg. implement plan 
 
 执行计划
+
+**impose v.强制实行，迫使**
+
+组合：impose ... on sb./sth.
+
+将...施加在...
+
+eg. This system imposes additional financial burdens on many people.
+
+这个制度给很多人增加了额外的经济负担。
+
+**one-size-fits-all adj.一刀切的、完全之策、通用的**
+
+eg. Government should implement it flexibly rather than imposing a one-size-fits-all rule.
+
+政府应该灵活实行，而非强制实行一刀切的规定。
+
